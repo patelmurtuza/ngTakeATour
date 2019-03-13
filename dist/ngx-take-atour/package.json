@@ -1,0 +1,21 @@
+{
+  "name": "ngx-take-atour",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ngx-take-atour.umd.js",
+  "module": "fesm5/ngx-take-atour.js",
+  "es2015": "fesm2015/ngx-take-atour.js",
+  "esm5": "esm5/ngx-take-atour.js",
+  "esm2015": "esm2015/ngx-take-atour.js",
+  "fesm5": "fesm5/ngx-take-atour.js",
+  "fesm2015": "fesm2015/ngx-take-atour.js",
+  "typings": "ngx-take-atour.d.ts",
+  "metadata": "ngx-take-atour.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
